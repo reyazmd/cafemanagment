@@ -1,0 +1,28 @@
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+}
+.ant-layout-header{
+  padding-inline: 0 !important;
+}
+.ant-layout-header .logo {
+  float: left;
+  width: 100px;
+ 
+}
+.ant-layout-header .ant-image-img {
+height: 70px;
+}
+.ant-layout-header .ant-image-mask {
+  height: 64px;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
