@@ -84,4 +84,10 @@ Steps:
 
 ![alt text](public/page1.png)
 
+![alt text](public/page2.png)
+
+![alt text](public/page3.png)
+
+![alt text](public/page4.png)
+
 
