@@ -54,8 +54,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
@@ -83,5 +81,7 @@ Steps:
 3. This code contains server.js file which will have node server code
 4. It also have a database dumb which need to import into your mysql workbench.
 5. Once DB is setup, just run your app by using npm start command
+
+![alt text](./page1.png)
 
 
