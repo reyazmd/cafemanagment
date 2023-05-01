@@ -82,6 +82,6 @@ Steps:
 4. It also have a database dumb which need to import into your mysql workbench.
 5. Once DB is setup, just run your app by using npm start command
 
-![alt text](./page1.png)
+![alt text](public/page1.png)
 
 
